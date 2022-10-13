@@ -1,9 +1,9 @@
-### Hi there Welcome to my Github Pofile! 👋
+### Hi there Welcome to my Github Profile! 👋
 #### Some info about me and my GH:
 <div align="center">
-  <a href="https://github.com/Rackon13">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rackon13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rackon13&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/ricardowaldow">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardowaldow&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardowaldow&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
